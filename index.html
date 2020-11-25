@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dischi</title>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.6/handlebars.min.js"></script> 
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" onclick="javascript:GoToHomePage()" href="#">GLI ALBUM DI MATO</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a  class="nav-link" onclick="javascript:GoToHomePage()" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            
+          </ul>
+          <div class="form-inline my-2 my-lg-0">
+            <input id="searchInput" class="form-control mr-sm-2" type="text" placeholder="Search"  aria-label="Search">
+            <span id="searchButton" class="btn btn-outline-success my-2 my-sm-0">Search</span>
+          </div>
+        </div>
+      </nav>
+    <div class="cds-container container pb-5 d-flex justify-content-around align-items-center h-100 flex-wrap">
+        
+    </div>
+   
+
+
+    <script id="entry-template" type="text/x-handlebars-template">
+        <!-- Disco di esempio --> 
+
+        <div class="flip-card m-5">
+          <div class="flip-card-inner">
+           <div class="flip-card-front  d-flex flex-column align-items-center text-center p-3">
+             <img src="{{src}}" alt="">
+             <h3 class="pt-2">{{title}}</h3>
+             <span class="author">{{author}}</span>
+             <span class="year">{{year}}</span>
+           </div>
+           <div class="flip-card-back" >
+             <img src="{{src}}" alt="">
+           </div>
+          </div>
+        </div>
+
+        <!-- <div class="flip-card-front cd d-flex flex-column align-items-center m-3 text-center p-3">
+            <img src="{{src}}" alt="">
+            <h3 class="pt-2">{{title}}</h3>
+            <span class="author">{{author}}</span>
+            <span class="year">{{year}}</span>
+        </div>
+        <div class="flip-card-back" >
+          <img src="prova.jpg" alt="">
+        </div> -->
+    </script>
+    <script src="main.js" charset="utf-8"></script>
+
+</body>
+</html>

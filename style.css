@@ -1,0 +1,103 @@
+
+body {
+    background-image: url("prova3.jpg");
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+.cds-container {
+    overflow: auto;
+}
+
+/* Cards Animation  */
+.flip-card {
+    background-color: transparent;
+    min-height: 324px;
+    width: 210px;
+    perspective: 1000px;
+  }
+  
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    min-height: 324px;
+    text-align: center;
+
+    transition: transform 2s ease-in-out;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  
+  .flip-card:hover .flip-card-inner {
+
+    transform: rotateY(180deg);
+    transform-origin: 30% 40%;
+
+  }
+  
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    min-height: 324px;
+    width: 210px;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+  
+  .flip-card-front {
+    color:rgba(255,255,255,.9);
+    background-color: rgba(112, 128, 144,.5);
+    font-size: 1.4rem;
+    min-height: 324px;
+    width: 210px;  
+  }
+
+  
+ 
+  
+  .flip-card-back {
+    background-color: #2980b9;
+    color: white;
+    transform: rotateY(180deg);
+  }
+
+  .flip-card-back img {
+    min-height: 324px;
+    width: 350px;
+    z-index: 999;
+  }
+
+
+
+.flip-card-front h3 {
+    font-size: 1.4rem;
+}
+.flip-card-front img {
+    width: 150px;
+    height: 150px;
+}
+
+  /* </style>
+  </head>
+  <body>
+  
+  <h1>Card Flip with Text</h1>
+  <h3>Hover over the image below:</h3>
+  
+  <div class="flip-card">
+    <div class="flip-card-inner">
+     <div class="flip-card-front cd d-flex flex-column align-items-center m-3 text-center p-3">
+       <img src="{{src}}" alt="">
+       <h3 class="pt-2">{{title}}</h3>
+       <span class="author">{{author}}</span>
+       <span class="year">{{year}}</span>
+    </div>
+    <div class="flip-card-back" >
+       <img src="prova.jpg" alt="">
+    </div>
+    </div>
+  </div> */

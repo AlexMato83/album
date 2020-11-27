@@ -2,7 +2,6 @@
 body {
     background-image: url("prova3.jpg");
     background-repeat: no-repeat;
-    height: 100vh;
     overflow: hidden;
 }
 
@@ -10,9 +9,9 @@ body {
     width: 0px;
 } */
 
-.cds-container {
+.main{
     overflow: auto;
-    height: calc(100% - 100px);
+    height: 100vh;
 }
 
 /* Cards Animation  */
@@ -37,7 +36,7 @@ body {
   .flip-card:hover .flip-card-inner {
 
     transform: rotateY(180deg);
-    transform-origin: 30% 40%;
+    /* transform-origin: 30% 40%; */
 
   }
   
@@ -61,6 +60,7 @@ body {
  
   
   .flip-card-back {
+    left: 65px;
     background-color: #2980b9;
     color: white;
     transform: rotateY(180deg);
@@ -82,9 +82,9 @@ body {
     height: 150px;
 }
 
-footer {
+.footer {
   height: 100px;
-  width: 100%;
+  
   background-color: white;
   
 }

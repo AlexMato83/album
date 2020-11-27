@@ -45,7 +45,8 @@ function chiamataAjax(val) {
                             title: album.title,
                             author: album.author ,
                             year: album.year,
-                            src: album.poster
+                            src: album.poster,
+                            wikipedia:album.wikipedia
                         
                         };
                         var html = handelbars("entry-template")(context);  

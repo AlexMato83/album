@@ -2,53 +2,53 @@
 
     $database = [
         [
-            "poster"=> "https://www.onstageweb.com/wp-content/uploads/2018/09/bon-jovi-new-jersey.jpg",
-            "title"=> "New Jersey",
-            "author"=> "Bon Jovi",
+            "poster"=> "https://www.negrita.com/wp-content/uploads/2014/08/cover_big_reset.jpg",
+            "title"=> "Reset",
+            "author"=> "Negrita",
             "genre"=> "Rock",
-            "year"=>"1988",
-            "wikipedia" => "https://it.wikipedia.org/wiki/New_Jersey_(album)"
+            "year"=>"1999",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Reset_(Negrita)"
 
         ],
         [
-            "poster"=> "https://static.posters.cz/image/750/stampa-su-tela-queen-live-at-wembley-stadium-i80367.jpg",
-            "title"=>"Live at Wembley 86",
-            "author"=>"Queen",
-            "genre"=>"Pop",
-            "year"=>"1992",
-            "wikipedia" => "https://it.wikipedia.org/wiki/Live_at_Wembley_Stadium"
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/81GTu6740XL._AC_SL1400_.jpg",
+            "title"=>"Significant Other",
+            "author"=>"Limp Bizkit",
+            "genre"=>"Alternative Rock",
+            "year"=>"1999",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Significant_Other"
             ],
         [
-            "poster"=>"https://images-na.ssl-images-amazon.com/images/I/41JD3CW65HL.jpg",
-            "title"=>"Ten's Summoner's Tales",
-            "author"=>"Sting",
-            "genre"=>"Pop",
-            "year"=>"1993",
-            "wikipedia" => "https://it.wikipedia.org/wiki/New_Jersey_(album)"
+            "poster"=>"https://images-na.ssl-images-amazon.com/images/I/71H9ZR6EGFL._AC_SL1400_.jpg",
+            "title"=>"Appetite for Destruction",
+            "author"=>"Guns N' Roses",
+            "genre"=>"Hard Rock",
+            "year"=>"1987",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Appetite_for_Destruction"
             ],
         [
-            "poster"=>"https://cdn2.jazztimes.com/2018/05/SteveGadd-800x723.jpg",
-            "title"=>"Steve Gadd Band",
-            "author"=> "Steve Gadd Band",
-            "genre"=>"Jazz",
-            "year"=>"2018",
-            "wikipedia" => "https://it.wikipedia.org/wiki/New_Jersey_(album)"
-            ],
-        [
-            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/810nSIQOLiL._SY355_.jpg",
-            "title"=> "Brave new World",
-            "author"=> "Iron Maiden",
-            "genre"=>"Metal",
+            "poster"=>"https://images.genius.com/2d92f1e7a619c6ca6dbef464aaf49261.514x400x1.jpg",
+            "title"=>"Ain't Life Grand",
+            "author"=> "Slash's Snakepit",
+            "genre"=>"Hard Rock",
             "year"=>"2000",
-            "wikipedia"=> "https://it.wikipedia.org/wiki/New_Jersey_(album)"
+            "wikipedia" => "https://it.wikipedia.org/wiki/Ain%27t_Life_Grand_(Slash%27s_Snakepit)"
+            ],
+        [
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/71sjOiWdVSL._AC_SX466_.jpg",
+            "title"=> "Contraband ",
+            "author"=> "Velvet Revolver",
+            "genre"=>"Hard Rock",
+            "year"=>"2004",
+            "wikipedia"=> "https://it.wikipedia.org/wiki/Contraband_(Velvet_Revolver)"
         ],
         [
-            "poster"=> "https://upload.wikimedia.org/wikipedia/en/9/97/Eric_Clapton_OMCOMR.jpg",
-            "title"=>"One more car, one more raider",
-            "author"=>"Eric Clapton",
-            "genre"=>"Rock",
-            "year"=> "2002",
-            "wikipedia" => "https://it.wikipedia.org/wiki/New_Jersey_(album)"
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/61Qq9TjQDGL._AC_SX466_.jpg",
+            "title"=>"Oro, incenso e birra",
+            "author"=>"Zucchero",
+            "genre"=>"Rock - Blues",
+            "year"=> "1989",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Oro,_incenso_e_birra"
 
         ],
         [

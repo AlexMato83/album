@@ -5,15 +5,20 @@ body {
     overflow: hidden;
 }
 
-/* ::-webkit-scrollbar {
-    width: 0px;
-} */
-
+nav {
+  background-color: rgba(112, 128, 144,.2);
+}
+nav a {
+  color: #28A745 !important;
+  
+}
 .main{
     overflow: auto;
     height: 100vh;
 }
-
+.cds-container {
+  min-height: calc(100vh - 100px);
+}
 /* Cards Animation  */
 .flip-card {
     background-color: transparent;
@@ -50,7 +55,7 @@ body {
   
   .flip-card-front {
     color:rgba(255,255,255,.9);
-    background-color: rgba(112, 128, 144,.5);
+    background-color: rgba(112, 128, 144,.2);
     font-size: 1.4rem;
     min-height: 324px;
     width: 210px;  

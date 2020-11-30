@@ -26,7 +26,8 @@ function chiamataAjax(val) {
                     title: album.title,
                     author: album.author ,
                     year: album.year,
-                    src: album.poster
+                    src: album.poster,
+                    wikipedia: album.wikipedia
                 
                 };
                 var html = handelbars("entry-template")(context);  
@@ -46,10 +47,11 @@ function chiamataAjax(val) {
                             author: album.author ,
                             year: album.year,
                             src: album.poster,
-                            wikipedia:album.wikipedia
+                            wikipedia :album.wikipedia
+                        
                         
                         };
-                        var html = handelbars("entry-template")(context);  
+                        var html = handelbars("entry-template")(context); 
                         
                         $('.cds-container').append(html);
                         return false;

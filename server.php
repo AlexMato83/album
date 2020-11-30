@@ -52,93 +52,102 @@
 
         ],
         [
-            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/51rggtPgmRL.jpg",
-            "title"=>"Made in Japan",
-            "author"=>"Deep Purple",
-            "genre"=>"Rock",
-            "year"=> "1972",
-            "wikipedia" => "https://it.wikipedia.org/wiki/New_Jersey_(album)"
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/71JuNbWD2bL._AC_SL1400_.jpg",
+            "title"=>"Greatest Hits II",
+            "author"=>"Queen",
+            "genre"=>"Pop Rock",
+            "year"=> "1991",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Greatest_Hits_II_(Queen)"
 
         ],
         [
-            "poster"=>"https://images-na.ssl-images-amazon.com/images/I/81r3FVfNG3L._SY355_.jpg",
-            "title"=>"And Justice for All",
-            "author"=>"Metallica",
-            "genre"=> "Metal",
-            "year"=> "1988",
-            "wikipedia" => "https://it.wikipedia.org/wiki/New_Jersey_(album)"
+            "poster"=>"https://images-na.ssl-images-amazon.com/images/I/91NQO2l3RZL._AC_SX522_.jpg",
+            "title"=>"Hybrid Theory",
+            "author"=>"Linkin Park",
+            "genre"=> "Nu Metal",
+            "year"=> "2000",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Hybrid_Theory"
 
         ],
         [
-            "poster"=> "https://img.discogs.com/KOBsqQwKiNKH-q927oHMyVdDzSo=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6406665-1418464475-6120.jpeg.jpg",
-            "title"=> "Hard Wired",
-            "author"=> "Dave Weckl",
-            "genre"=> "Jazz",
-            "year"=> "1994",
-            "wikipedia" => "https://it.wikipedia.org/wiki/New_Jersey_(album)"
+            "poster"=> "https://img.discogs.com/JebCtEak36nd1ML5xk2w4wSk-yw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1827139-1312996478.jpeg.jpg",
+            "title"=> "21st Century Breakdown",
+            "author"=> "Green Day",
+            "genre"=> "Pop Punk",
+            "year"=> "2009",
+            "wikipedia" => "https://it.wikipedia.org/wiki/21st_Century_Breakdown"
 
         ],
         [
-            "poster"=> "https://m.media-amazon.com/images/I/71K9CbNZPsL._SS500_.jpg",
-            "title"=>"Bad",
-            "author"=>"Michael Jacjson",
-            "genre"=> "Pop",
+            "poster"=> "https://www.mescalmusic.com/wp-content/uploads/2019/11/Subsonica_1999_Microchip-Emozionale-3.jpg",
+            "title"=>"Microchip emozionale",
+            "author"=>"Subsonica",
+            "genre"=> "Rock Elettronico",
+            "year"=> "1999",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Microchip_emozionale"
+
+        ],
+        [
+            "poster"=> "https://img.discogs.com/Tl6y9MB_jHxh-Y2WjwGkWXpSTNo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1687800-1296402849.jpeg.jpg",
+            "title"=> "Post Orgasmic Chill",
+            "author"=> "Skunk Anansie",
+            "genre"=> "Rock Alternativo",
+            "year"=> "1999",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Post_Orgasmic_Chill"
+
+        ],
+        [
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/61cWr1MP9gL._AC_SY355_.jpg",
+            "title"=>"Hanno ucciso l'Uomo Ragno",
+            "author"=>"883",
+            "genre"=> "Pop Rock",
+            "year"=> "1992",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Hanno_ucciso_l%27Uomo_Ragno_(album)"
+
+        ],
+        [
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/61C-edHcbjL._AC_SX425_.jpg",
+            "title"=> "Nord sud ovest est",
+            "author"=> "883",
+            "genre"=> "Pop Rock",
+            "year"=> "1993",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Nord_sud_ovest_est"
+
+        ],
+        [
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/51EyANzIo%2BL._AC_SY355_.jpg",
+            "title"=>"Blue's",
+            "author"=>"Zucchero",
+            "genre"=> "Pop Blues",
             "year"=> "1987",
-            "wikipedia" => "https://it.wikipedia.org/wiki/New_Jersey_(album)"
+            "wikipedia" => "https://it.wikipedia.org/wiki/Blue%27s"
 
         ],
         [
-            "poster"=> "https://img.discogs.com/KOBsqQwKiNKH-q927oHMyVdDzSo=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6406665-1418464475-6120.jpeg.jpg",
-            "title"=> "Hard Wired",
-            "author"=> "Dave Weckl",
-            "genre"=> "Jazz",
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/51n3uXVXUgL._AC_.jpg",
+            "title"=> "Spirito",
+            "author"=> "Litfiba",
+            "genre"=> "Hard Rock",
             "year"=> "1994",
-            "wikipedia" => "https://it.wikipedia.org/wiki/New_Jersey_(album)"
+            "wikipedia" => "https://it.wikipedia.org/wiki/Spirito_(album)"
 
         ],
         [
-            "poster"=> "https://m.media-amazon.com/images/I/71K9CbNZPsL._SS500_.jpg",
-            "title"=>"Bad",
-            "author"=>"Michael Jacjson",
-            "genre"=> "Pop",
-            "year"=> "1987",
-            "wikipedia" => "https://it.wikipedia.org/wiki/New_Jersey_(album)"
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/61Tn6ae0LxL._AC_SX450_.jpg",
+            "title"=>"Heart",
+            "author"=>"Elisa",
+            "genre"=> "Rock",
+            "year"=> "2009",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Heart_(Elisa)"
 
         ],
         [
-            "poster"=> "https://img.discogs.com/KOBsqQwKiNKH-q927oHMyVdDzSo=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6406665-1418464475-6120.jpeg.jpg",
-            "title"=> "Hard Wired",
-            "author"=> "Dave Weckl",
-            "genre"=> "Jazz",
-            "year"=> "1994",
-            "wikipedia" => "https://it.wikipedia.org/wiki/New_Jersey_(album)"
-
-        ],
-        [
-            "poster"=> "https://m.media-amazon.com/images/I/71K9CbNZPsL._SS500_.jpg",
-            "title"=>"Bad",
-            "author"=>"Michael Jacjson",
-            "genre"=> "Pop",
-            "year"=> "1987",
-            "wikipedia" => "https://it.wikipedia.org/wiki/New_Jersey_(album)"
-
-        ],
-        [
-            "poster"=> "https://img.discogs.com/KOBsqQwKiNKH-q927oHMyVdDzSo=/fit-in/596x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6406665-1418464475-6120.jpeg.jpg",
-            "title"=> "Hard Wired",
-            "author"=> "Dave Weckl",
-            "genre"=> "Jazz",
-            "year"=> "1994",
-            "wikipedia" => "https://it.wikipedia.org/wiki/New_Jersey_(album)"
-
-        ],
-        [
-            "poster"=> "https://m.media-amazon.com/images/I/71K9CbNZPsL._SS500_.jpg",
-            "title"=>"Bad",
-            "author"=>"Michael Jacjson",
-            "genre"=> "Pop",
-            "year"=> "1987",
-            "wikipedia" => "https://it.wikipedia.org/wiki/New_Jersey_(album)"
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/816MVqiz%2BuL._AC_SL1500_.jpg",
+            "title"=>"Drops of Jupiter",
+            "author"=>"Train",
+            "genre"=> "Rock",
+            "year"=> "2001",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Drops_of_Jupiter"
 
         ]
     ];

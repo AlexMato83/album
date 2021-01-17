@@ -16,8 +16,11 @@ nav a {
     overflow: auto;
     height: 100vh;
 }
+.container-fluid {
+  height: calc(100vh - 56px);
+}
 .cds-container {
-  min-height: calc(100vh - 100px);
+  min-height: calc(100vh - 156px);
 }
 /* Cards Animation  */
 .flip-card {
@@ -88,28 +91,11 @@ nav a {
 }
 
 .footer {
-  height: 100px;
-  
-  background-color: white;
+  border-top: 2px solid #28A745;
+  background-color: black;
   
 }
-  /* </style>
-  </head>
-  <body>
-  
-  <h1>Card Flip with Text</h1>
-  <h3>Hover over the image below:</h3>
-  
-  <div class="flip-card">
-    <div class="flip-card-inner">
-     <div class="flip-card-front cd d-flex flex-column align-items-center m-3 text-center p-3">
-       <img src="{{src}}" alt="">
-       <h3 class="pt-2">{{title}}</h3>
-       <span class="author">{{author}}</span>
-       <span class="year">{{year}}</span>
-    </div>
-    <div class="flip-card-back" >
-       <img src="prova.jpg" alt="">
-    </div>
-    </div>
-  </div> */
+
+footer img {
+  width: 25px;
+} 

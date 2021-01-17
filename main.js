@@ -14,6 +14,9 @@ function chiamataAjax(val) {
     $.ajax({
       
        url: 'api.php',
+       data: {
+         val : val
+       },
        success: function(data) {
         for (var i = 0; i< data.length; i++){
             
@@ -62,6 +65,7 @@ function chiamataAjax(val) {
         
     
        },
+      
        error: function(err) {
 
        }

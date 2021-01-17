@@ -142,6 +142,78 @@
 
         ],
         [
+            "poster"=> "https://img.discogs.com/e5DYQWi05OdsQ5Eg6XTfI9jXiWs=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1463420-1221624803.jpeg.jpg",
+            "title"=>"Silver Side Up",
+            "author"=>"Nickelback",
+            "genre"=> "Hard-rock",
+            "year"=> "2001",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Silver_Side_Up"
+
+        ],
+        [
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/816MVqiz%2BuL._AC_SL1500_.jpg",
+            "title"=>"Use Your Illusion I",
+            "author"=>"Train",
+            "genre"=> "Rock",
+            "year"=> "2001",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Use_Your_Illusion_I"
+
+        ],
+        [
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/816MVqiz%2BuL._AC_SL1500_.jpg",
+            "title"=>"Drops of Jupiter",
+            "author"=>"Train",
+            "genre"=> "Rock",
+            "year"=> "2001",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Drops_of_Jupiter"
+
+        ],
+        [
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/816MVqiz%2BuL._AC_SL1500_.jpg",
+            "title"=>"Drops of Jupiter",
+            "author"=>"Train",
+            "genre"=> "Rock",
+            "year"=> "2001",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Drops_of_Jupiter"
+
+        ],
+        [
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/816MVqiz%2BuL._AC_SL1500_.jpg",
+            "title"=>"Drops of Jupiter",
+            "author"=>"Train",
+            "genre"=> "Rock",
+            "year"=> "2001",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Drops_of_Jupiter"
+
+        ],
+        [
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/816MVqiz%2BuL._AC_SL1500_.jpg",
+            "title"=>"Drops of Jupiter",
+            "author"=>"Train",
+            "genre"=> "Rock",
+            "year"=> "2001",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Drops_of_Jupiter"
+
+        ],
+        [
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/816MVqiz%2BuL._AC_SL1500_.jpg",
+            "title"=>"Drops of Jupiter",
+            "author"=>"Train",
+            "genre"=> "Rock",
+            "year"=> "2001",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Drops_of_Jupiter"
+
+        ],
+        [
+            "poster"=> "https://images-na.ssl-images-amazon.com/images/I/816MVqiz%2BuL._AC_SL1500_.jpg",
+            "title"=>"Drops of Jupiter",
+            "author"=>"Train",
+            "genre"=> "Rock",
+            "year"=> "2001",
+            "wikipedia" => "https://it.wikipedia.org/wiki/Drops_of_Jupiter"
+
+        ],
+        [
             "poster"=> "https://images-na.ssl-images-amazon.com/images/I/816MVqiz%2BuL._AC_SL1500_.jpg",
             "title"=>"Drops of Jupiter",
             "author"=>"Train",
@@ -151,5 +223,4 @@
 
         ]
     ];
-   
  ?>
